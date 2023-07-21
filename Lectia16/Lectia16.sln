@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lectia16_1", "Lectia16_1\Lectia16_1.csproj", "{EC845E97-127E-401F-98B2-76B0AE80A854}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lectia16_homework_2", "Lectia16_homework_2\Lectia16_homework_2.csproj", "{52D7D779-C3B5-4E85-B3D8-C542778129EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lectia16_2", "Lectia16_2\Lectia16_2.csproj", "{991ADCBE-B167-4FC8-BE99-9AC221437283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lectia16_2_class_library", "Lectia16_2_class_library\Lectia16_2_class_library.csproj", "{9C51B1FE-DFA5-49F7-83A0-198A8DC45628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lectia16_3", "Lectia16_3\Lectia16_3.csproj", "{C09EF679-36C2-4AD4-8B6E-FA47F5D9F875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lectia16_4_logger", "Lectia16_4_logger\Lectia16_4_logger.csproj", "{FEC965FE-72BF-4048-B4FD-932161C9D286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC845E97-127E-401F-98B2-76B0AE80A854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC845E97-127E-401F-98B2-76B0AE80A854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC845E97-127E-401F-98B2-76B0AE80A854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC845E97-127E-401F-98B2-76B0AE80A854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D7D779-C3B5-4E85-B3D8-C542778129EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D7D779-C3B5-4E85-B3D8-C542778129EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D7D779-C3B5-4E85-B3D8-C542778129EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D7D779-C3B5-4E85-B3D8-C542778129EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991ADCBE-B167-4FC8-BE99-9AC221437283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991ADCBE-B167-4FC8-BE99-9AC221437283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991ADCBE-B167-4FC8-BE99-9AC221437283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991ADCBE-B167-4FC8-BE99-9AC221437283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C51B1FE-DFA5-49F7-83A0-198A8DC45628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C51B1FE-DFA5-49F7-83A0-198A8DC45628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C51B1FE-DFA5-49F7-83A0-198A8DC45628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C51B1FE-DFA5-49F7-83A0-198A8DC45628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09EF679-36C2-4AD4-8B6E-FA47F5D9F875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09EF679-36C2-4AD4-8B6E-FA47F5D9F875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09EF679-36C2-4AD4-8B6E-FA47F5D9F875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09EF679-36C2-4AD4-8B6E-FA47F5D9F875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC965FE-72BF-4048-B4FD-932161C9D286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC965FE-72BF-4048-B4FD-932161C9D286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC965FE-72BF-4048-B4FD-932161C9D286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC965FE-72BF-4048-B4FD-932161C9D286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6FB518F-F9CF-4F36-BA1D-FBB85C6FD6F4}
+	EndGlobalSection
+EndGlobal
